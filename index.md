@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# VISPR: Visual Pre-Training for Robotics
+# Visual Pre-Training for Robotics
 
-CVPR 2023 Workshop
-Day: June 19, 2023
-Time: All Day
+CVPR 2023 Workshop  
+Day: June 19, 2023  
+Time: All Day  
 
 The great vision scientist, James J. Gibson, famously said “We see in order to move and we move in order to see.” But can we learn to see before we learn to move? And how far can we move if we first learn to see?
 
