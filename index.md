@@ -27,21 +27,21 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 
 ## Schedule
 
-| | Time  | Speaker  |
-|-|-|-|
-|   | 9:15 - 9:30 am | Introduction |
-|   | 9:30 - 10:00 am | Kristen Grauman |
-|   | 10:00 - 10:30 am | *Morning Coffee*
-|   | 10:30 - 11:00 am | Jitendra Malik |
-|   | 11:00 - 11:30 am | Dieter Fox |
-|   | 11:30 - 12:00 pm | Josef Sivic |
-|   | 12:00 - 2:00 pm | *Lunch*
-|   | 2:00 - 2:30 pm | Chelsea Finn |
-|   | 2:30 - 3:00 pm | Alexander Kirillov |
-|   | 3:00 - 3:30 pm | *Afternoon Coffee*
-|   | 3:30 - 4:00 pm | Abhinav Gupta |
-|   | 4:00 - 4:30 pm | Fei-Fei Li |
-|   | 4:30 - 5:15 pm | Discussion Panel |
+| Time  | Speaker  |
+|-|-|
+| 9:15 - 9:30 am | Introduction |
+| 9:30 - 10:00 am | Kristen Grauman |
+| 10:00 - 10:30 am | *Morning Coffee*
+| 10:30 - 11:00 am | Jitendra Malik |
+| 11:00 - 11:30 am | Dieter Fox |
+| 11:30 - 12:00 pm | Josef Sivic |
+| 12:00 - 2:00 pm | *Lunch*
+| 2:00 - 2:30 pm | Chelsea Finn |
+| 2:30 - 3:00 pm | Alexander Kirillov |
+| 3:00 - 3:30 pm | *Afternoon Coffee*
+| 3:30 - 4:00 pm | Abhinav Gupta |
+| 4:00 - 4:30 pm | Fei-Fei Li |
+| 4:30 - 5:15 pm | Discussion Panel |
 
 ## Organizers
 
