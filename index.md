@@ -29,7 +29,7 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 
 | Time  | Speaker  |
 |-|-|
-| 9:15 - 9:30 am | Introduction |
+| 9:15 - 9:30 am | *Introduction* |
 | 9:30 - 10:00 am | Kristen Grauman |
 | 10:00 - 10:30 am | Jitendra Malik |
 | 10:30 - 11:00 am | *Morning Coffee* |
@@ -41,7 +41,7 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 | 3:00 - 3:30 pm | *Afternoon Coffee* |
 | 3:30 - 4:00 pm | Abhinav Gupta |
 | 4:00 - 4:30 pm | Fei-Fei Li |
-| 4:30 - 5:15 pm | Discussion Panel |
+| 4:30 - 5:15 pm | *Discussion Panel* |
 
 ## Organizers
 
