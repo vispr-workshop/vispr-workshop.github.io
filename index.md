@@ -11,11 +11,10 @@ Location: West 220-222
 
 <div align="center">
   <img src="assets/room.jpg" />
-</div>  
+</div>
+<br>
 
 The great vision scientist, James J. Gibson, famously said “We see in order to move and we move in order to see.” But can we learn to see before we learn to move? And how far can we move if we first learn to see?
-
-The primary goals of this workshop are (1) to present key questions and the state of the art on visual pre-training for robotics, and (2) to encourage the wider computer vision community to consider future contributions in this space.
 
 We are excited to have a lineup of speakers from computer vision, machine learning, and robotics. We hope that this workshop will help attract the broader CVPR community to this important and exciting topic.
 
