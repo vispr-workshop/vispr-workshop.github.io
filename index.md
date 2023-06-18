@@ -10,9 +10,9 @@ Time: 9:15am - 5:15pm
 Location: West 220-222  
 
 <div align="center">
-  <img src="assets/room.jpg" />
+  <img src="assets/room.jpg"/>
+  <br>
 </div>
-<br>
 
 The great vision scientist, James J. Gibson, famously said “We see in order to move and we move in order to see.” But can we learn to see before we learn to move? And how far can we move if we first learn to see?
 
