@@ -9,6 +9,10 @@ Day: June 19, 2023
 Time: 9:15am - 5:15pm  
 Location: West 220-222  
 
+<div align="center">
+  <img src="assets/room.jpg" width="800px" />
+</div>
+
 The great vision scientist, James J. Gibson, famously said “We see in order to move and we move in order to see.” But can we learn to see before we learn to move? And how far can we move if we first learn to see?
 
 The primary goals of this workshop are (1) to present key questions and the state of the art on visual pre-training for robotics, and (2) to encourage the wider computer vision community to consider future contributions in this space.
