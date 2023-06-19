@@ -27,7 +27,6 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 * [Chelsea Finn](https://ai.stanford.edu/~cbfinn/), Stanford University
 * [Alexander Kirillov](https://alexander-kirillov.github.io/), Facebook AI Research
 * [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/), Carnegie Mellon University
-* [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li), Stanford University
 
 ## Schedule
 
@@ -44,7 +43,6 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 | 2:30 - 3:00 pm | Alexander Kirillov |
 | 3:00 - 3:30 pm | *Afternoon Coffee* |
 | 3:30 - 4:00 pm | Abhinav Gupta |
-| 4:00 - 4:30 pm | Fei-Fei Li |
 | 4:30 - 5:15 pm | *Discussion Panel* |
 
 ## Organizers
