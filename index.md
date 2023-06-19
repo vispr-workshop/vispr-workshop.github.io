@@ -6,7 +6,7 @@ layout: default
 
 CVPR 2023 Workshop  
 Day: June 19, 2023  
-Time: 9:15am - 5:15pm  
+Time: 9:15am - 5:30pm  
 Location: West 220-222  
 
 <div align="center">
@@ -28,6 +28,7 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 * [David Fouhey](https://web.eecs.umich.edu/~fouhey/), University of Michigan
 * [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/), Carnegie Mellon University
 * [Alexander Kirillov](https://alexander-kirillov.github.io/), Facebook AI Research
+* [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), UC Berkeley
 
 ## Schedule
 
@@ -45,7 +46,8 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 | 3:00 - 3:30 pm | *Afternoon Coffee* |
 | 3:30 - 4:00 pm | Abhinav Gupta |
 | 4:00 - 4:30 pm | Alexander Kirillov |
-| 4:30 - 5:15 pm | *Discussion Panel* |
+| 4:30 - 5:00 pm | Sergey Levine |
+| 5:00 - 5:30 pm | *Discussion Panel* |
 
 ## Organizers
 
