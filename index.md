@@ -25,8 +25,9 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 * [Dieter Fox](https://homes.cs.washington.edu/~fox/), University of Washington
 * [Josef Sivic](http://people.ciirc.cvut.cz/~sivic/), Czech Technical University
 * [Chelsea Finn](https://ai.stanford.edu/~cbfinn/), Stanford University
-* [Alexander Kirillov](https://alexander-kirillov.github.io/), Facebook AI Research
+* [David Fouhey](https://web.eecs.umich.edu/~fouhey/), University of Michigan
 * [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/), Carnegie Mellon University
+* [Alexander Kirillov](https://alexander-kirillov.github.io/), Facebook AI Research
 
 ## Schedule
 
@@ -40,9 +41,10 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 | 11:30 - 12:00 pm | Josef Sivic |
 | 12:00 - 2:00 pm | *Lunch*
 | 2:00 - 2:30 pm | Chelsea Finn |
-| 2:30 - 3:00 pm | Alexander Kirillov |
+| 2:30 - 3:00 pm | David Fouhey |
 | 3:00 - 3:30 pm | *Afternoon Coffee* |
 | 3:30 - 4:00 pm | Abhinav Gupta |
+| 4:00 - 4:30 pm | Alexander Kirillov |
 | 4:30 - 5:15 pm | *Discussion Panel* |
 
 ## Organizers
