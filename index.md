@@ -32,10 +32,10 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 
 ## Schedule
 
-| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Speaker  | Talk Title |
+| Time | Speaker  | Talk Title |
 |-|-|-|
 | 9:15 - 9:30 am | *Introduction* | |
-| 9:30 - 10:00 am | Kristen Grauman | From Goals to Grasps: Learning About Action from People in Video |
+| 9:30 - 10:00 am | Kristen Grauman | From Goals to Grasps: <br>Learning About Action from People in Video |
 | 10:00 - 10:30 am | Jitendra Malik | Visual Representations for Robotics |
 | 10:30 - 11:00 am | *Morning Coffee* | |
 | 11:00 - 11:30 am | Dieter Fox | Toward Foundational Manipulation Skills |
@@ -44,9 +44,9 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 | 2:00 - 2:30 pm | Chelsea Finn | How to Generalize Your Robot with Diverse Offline Data |
 | 2:30 - 3:00 pm | David Fouhey | From Hands in Action to Possibilities of Interaction |
 | 3:00 - 3:30 pm | *Afternoon Coffee* | |
-| 3:30 - 4:00 pm | Abhinav Gupta | Watch, Learn, Manipulate: Learning Manipulation in the Wild from Passive Videos |
+| 3:30 - 4:00 pm | Abhinav Gupta | Watch, Learn, Manipulate: <br>Learning Manipulation in the Wild from Passive Videos |
 | 4:00 - 4:30 pm | Alexander Kirillov | Segment Anything |
-| 4:30 - 5:00 pm | Sergey Levine | Robotic Learning with Large Datasets: Towards General-Purpose Models for All Robots |
+| 4:30 - 5:00 pm | Sergey Levine | Robotic Learning with Large Datasets: <br>Towards General-Purpose Models for All Robots |
 | 5:00 - 5:30 pm | *Discussion Panel* | |
 
 ## Organizers
