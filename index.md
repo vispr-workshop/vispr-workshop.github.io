@@ -32,7 +32,7 @@ We are excited to have a lineup of speakers from computer vision, machine learni
 
 ## Schedule
 
-| Time  | Speaker  | Talk Title |
+| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Speaker  | Talk Title |
 |-|-|-|
 | 9:15 - 9:30 am | *Introduction* | |
 | 9:30 - 10:00 am | Kristen Grauman | From Goals to Grasps: Learning About Action from People in Video |
