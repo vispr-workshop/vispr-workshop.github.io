@@ -222,7 +222,7 @@ table {
 
 td, th {
     margin:0px;
-    padding:5px;
+    padding:10px;
 }
 
 th {
@@ -231,6 +231,10 @@ th {
     font-variant: small-caps;
     text-align: left;
     background-color: $grey-color-light;
+}
+
+td {
+    font-size: 12pt;
 }
 
 tr:nth-child(even) {
